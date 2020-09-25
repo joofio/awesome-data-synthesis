@@ -27,6 +27,9 @@ This repository contains a curated list of awesome resources for creating synthe
 
 ## time Series
 * [mtss-gan](https://github.com/firmai/mtss-gan)
+* [data-generator](https://github.com/KDD-OpenSource/data-generation)
+* [RGAN](https://github.com/ratschlab/RGAN)
+* [Machine-learning for trading Ch21](https://github.com/stefan-jansen/machine-learning-for-trading/tree/master/21_gans_for_synthetic_time_series)
 
 ## From model to dataset
 
@@ -58,5 +61,5 @@ This repository contains a curated list of awesome resources for creating synthe
 * [SDMetrics](https://github.com/sdv-dev/SDMetrics)
 * [SDV evaluation functions](https://github.com/sdv-dev/SDV)
 * [table-evaluator](https://github.com/Baukebrenninkmeijer/table-evaluator)
-
+* [Statistical-Similarity-Measurement](https://github.com/Olliang/Statistical-Similarity-Measurement)
 
