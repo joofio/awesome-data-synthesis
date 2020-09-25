@@ -34,22 +34,22 @@ This repository contains a curated list of awesome resources for creating synthe
 ## From model to dataset
 
 ### Tabular
-* [bindata](https://cran.r-project.org/web/packages/bindata/index.html)
-* [GenOrd](https://cran.r-project.org/web/packages/GenOrd/index.html)
-* [MultiOrd](https://cran.r-project.org/web/packages/MultiOrd/index.html)
-* [PoisBinOrdNonNor](https://cran.r-project.org/web/packages/PoisBinOrdNonNor/index.html)
-* [SimMultiCorrData](https://cran.r-project.org/web/packages/SimMultiCorrData/index.html)
-* [plaitpy](https://github.com/plaitpy/plaitpy)
+* [bindata](https://cran.r-project.org/web/packages/bindata/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
+* [GenOrd](https://cran.r-project.org/web/packages/GenOrd/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
+* [MultiOrd](https://cran.r-project.org/web/packages/MultiOrd/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
+* [PoisBinOrdNonNor](https://cran.r-project.org/web/packages/PoisBinOrdNonNor/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
+* [SimMultiCorrData](https://cran.r-project.org/web/packages/SimMultiCorrData/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
+* [plaitpy](https://github.com/plaitpy/plaitpy) 
 * [pySyntheticDatasetGenerator](https://github.com/EDS-APHP/pySyntheticDatasetGenerator)
 
 ## Pre-defined models 
 ### Tabular
 #### Students
-* [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR)
+* [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR) <img src="images/R_logo.svg.png" width="20" heigth=18>
 
 #### Population
-* [charlatan](https://cran.r-project.org/web/packages/charlatan/index.html)
-* [fabricatr](https://cran.r-project.org/web/packages/fabricatr/index.html)
+* [charlatan](https://cran.r-project.org/web/packages/charlatan/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
+* [fabricatr](https://cran.r-project.org/web/packages/fabricatr/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
 * [genstar](https://github.com/ANRGenstar/genstar)
 
 #### Patients & Medical Data
@@ -57,9 +57,9 @@ This repository contains a curated list of awesome resources for creating synthe
 * [BadMedicine](https://github.com/HicServices/BadMedicine)
 
 ## Metrics and dataset evaluation 
-* [datagene](https://github.com/firmai/datagene)
-* [SDMetrics](https://github.com/sdv-dev/SDMetrics)
-* [SDV evaluation functions](https://github.com/sdv-dev/SDV)
-* [table-evaluator](https://github.com/Baukebrenninkmeijer/table-evaluator)
-* [Statistical-Similarity-Measurement](https://github.com/Olliang/Statistical-Similarity-Measurement)
+* [datagene](https://github.com/firmai/datagene) <img src="images/python.png" width="20" heigth=20>
+* [SDMetrics](https://github.com/sdv-dev/SDMetrics) <img src="images/python.png" width="20" heigth=20>
+* [SDV evaluation functions](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
+* [table-evaluator](https://github.com/Baukebrenninkmeijer/table-evaluator) <img src="images/python.png" width="20" heigth=20>
+* [Statistical-Similarity-Measurement](https://github.com/Olliang/Statistical-Similarity-Measurement) <img src="images/python.png" width="20" heigth=20>
 
