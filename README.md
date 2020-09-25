@@ -31,7 +31,7 @@ This repository contains a curated list of awesome resources for creating synthe
 ## Pre-defined models 
 ## tabular
 ### Students
-* [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR
+* [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR)
 
 ### People
 * [charlatan](https://cran.r-project.org/web/packages/charlatan/index.html)
@@ -43,4 +43,4 @@ This repository contains a curated list of awesome resources for creating synthe
 
 
 ## Metrics and dataset evaluation 
-* [datagene] (https://github.com/firmai/datagene)
+* [datagene](https://github.com/firmai/datagene)
