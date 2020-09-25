@@ -18,7 +18,6 @@ This repository contains a curated list of awesome resources for creating synthe
 * [FakeR](https://cran.r-project.org/web/packages/fakeR/index.html)
 * [CTGAN](https://github.com/sdv-dev/CTGAN)
 * [TGAN](https://github.com/sdv-dev/TGAN)
-* [deltapy](https://github.com/firmai/deltapy)
 
 ## multiple formats
 * [SDV](https://github.com/sdv-dev/SDV)
