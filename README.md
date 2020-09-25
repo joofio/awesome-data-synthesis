@@ -14,7 +14,7 @@ This repository contains a curated list of awesome resources for creating synthe
 
 ## From original dataset to synthetic dataset
 
-## tabular
+### tabular
 * [FakeR](https://cran.r-project.org/web/packages/fakeR/index.html)
 * [CTGAN](https://github.com/sdv-dev/CTGAN)
 * [TGAN](https://github.com/sdv-dev/TGAN)
@@ -22,10 +22,10 @@ This repository contains a curated list of awesome resources for creating synthe
 * [On the Generation and Evaluation of Synthetic Tabular Data using GANs](https://github.com/Baukebrenninkmeijer/On-the-Generation-and-Evaluation-of-Synthetic-Tabular-Data-using-GANs)
 
 
-## multiple formats
+### multiple formats
 * [SDV](https://github.com/sdv-dev/SDV)
 
-## time Series
+### time Series
 * [mtss-gan](https://github.com/firmai/mtss-gan)
 * [data-generator](https://github.com/KDD-OpenSource/data-generation)
 * [RGAN](https://github.com/ratschlab/RGAN)
@@ -33,7 +33,7 @@ This repository contains a curated list of awesome resources for creating synthe
 
 ## From model to dataset
 
-## tabular
+### tabular
 * [bindata](https://cran.r-project.org/web/packages/bindata/index.html)
 * [GenOrd](https://cran.r-project.org/web/packages/GenOrd/index.html)
 * [MultiOrd](https://cran.r-project.org/web/packages/MultiOrd/index.html)
@@ -43,16 +43,16 @@ This repository contains a curated list of awesome resources for creating synthe
 * [pySyntheticDatasetGenerator](https://github.com/EDS-APHP/pySyntheticDatasetGenerator)
 
 ## Pre-defined models 
-## tabular
-### Students
+### tabular
+#### Students
 * [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR)
 
-### Population
+#### Population
 * [charlatan](https://cran.r-project.org/web/packages/charlatan/index.html)
 * [fabricatr](https://cran.r-project.org/web/packages/fabricatr/index.html)
 * [genstar](https://github.com/ANRGenstar/genstar)
 
-### Patients & Medical Data
+#### Patients & Medical Data
 * [synthea](https://github.com/synthetichealth/synthea)
 * [BadMedicine](https://github.com/HicServices/BadMedicine)
 
