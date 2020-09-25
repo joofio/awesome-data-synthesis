@@ -20,7 +20,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [TGAN](https://github.com/sdv-dev/TGAN)
 
 ##multiple-formats
-*[SDV](https://github.com/sdv-dev/SDV)
+* [SDV](https://github.com/sdv-dev/SDV)
 
 ## From model to dataset
 
@@ -46,5 +46,5 @@ This repository contains a curated list of awesome resources for creating synthe
 
 ## Metrics and dataset evaluation 
 * [datagene](https://github.com/firmai/datagene)
-* [SDMetrics](https://github.com/sdv-dev/SDMetrics
+* [SDMetrics](https://github.com/sdv-dev/SDMetrics)
 * [SDV evaluation functions](https://github.com/sdv-dev/SDV)
