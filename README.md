@@ -15,7 +15,7 @@ This repository contains a curated list of awesome resources for creating synthe
 ## From original dataset to synthetic dataset
 
 ### Tabular
-* [FakeR](https://cran.r-project.org/web/packages/fakeR/index.html) 
+* [FakeR](https://cran.r-project.org/web/packages/fakeR/index.html) <img src="images/R_logo.svg" width="20" heigth=18>
 * [CTGAN](https://github.com/sdv-dev/CTGAN) <img src="images/python.png" width="20" heigth=20>
 * [TGAN](https://github.com/sdv-dev/TGAN) <img src="images/python.png" width="20" heigth=20>
 * [gretel](https://github.com/gretelai/gretel-synthetics) <img src="images/python.png" width="20" heigth=20>
