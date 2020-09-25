@@ -15,18 +15,18 @@ This repository contains a curated list of awesome resources for creating synthe
 ## From original dataset to synthetic dataset
 
 ### Tabular
-* <img src="images/python.png" width="20" heigth=20> [FakeR](https://cran.r-project.org/web/packages/fakeR/index.html)
-* [CTGAN](https://github.com/sdv-dev/CTGAN)
-* [TGAN](https://github.com/sdv-dev/TGAN)
-* [gretel](https://github.com/gretelai/gretel-synthetics)
-* [On the Generation and Evaluation of Synthetic Tabular Data using GANs](https://github.com/Baukebrenninkmeijer/On-the-Generation-and-Evaluation-of-Synthetic-Tabular-Data-using-GANs)
+* [FakeR](https://cran.r-project.org/web/packages/fakeR/index.html) 
+* [CTGAN](https://github.com/sdv-dev/CTGAN) <img src="images/python.png" width="20" heigth=20>
+* [TGAN](https://github.com/sdv-dev/TGAN) <img src="images/python.png" width="20" heigth=20>
+* [gretel](https://github.com/gretelai/gretel-synthetics) <img src="images/python.png" width="20" heigth=20>
+* [On the Generation and Evaluation of Synthetic Tabular Data using GANs](https://github.com/Baukebrenninkmeijer/On-the-Generation-and-Evaluation-of-Synthetic-Tabular-Data-using-GANs) <img src="images/python.png" width="20" heigth=20>
 
 
 ### Multiple formats
-* [SDV](https://github.com/sdv-dev/SDV)
+* [SDV](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
 
 ### Time Series
-* [mtss-gan](https://github.com/firmai/mtss-gan)
+* [mtss-gan](https://github.com/firmai/mtss-gan) <img src="images/python.png" width="20" heigth=20>
 * [data-generator](https://github.com/KDD-OpenSource/data-generation)
 * [RGAN](https://github.com/ratschlab/RGAN)
 * [Machine-learning for trading Ch21](https://github.com/stefan-jansen/machine-learning-for-trading/tree/master/21_gans_for_synthetic_time_series)
