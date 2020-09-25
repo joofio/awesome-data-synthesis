@@ -17,7 +17,10 @@ This repository contains a curated list of awesome resources for creating synthe
 ## tabular
 * [FakeR](https://cran.r-project.org/web/packages/fakeR/index.html)
 * [CTGAN](https://github.com/sdv-dev/CTGAN)
+* [TGAN](https://github.com/sdv-dev/TGAN)
 
+##multiple-formats
+*[SDV](https://github.com/sdv-dev/SDV)
 
 ## From model to dataset
 
@@ -41,6 +44,7 @@ This repository contains a curated list of awesome resources for creating synthe
 
 
 
-
 ## Metrics and dataset evaluation 
 * [datagene](https://github.com/firmai/datagene)
+* [SDMetrics](https://github.com/sdv-dev/SDMetrics
+* [SDV evaluation functions](https://github.com/sdv-dev/SDV)
