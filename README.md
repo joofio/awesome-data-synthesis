@@ -20,11 +20,13 @@ This repository contains a curated list of awesome resources for creating synthe
 * [TGAN](https://github.com/sdv-dev/TGAN)
 * [gretel](https://github.com/gretelai/gretel-synthetics)
 * [On the Generation and Evaluation of Synthetic Tabular Data using GANs](https://github.com/Baukebrenninkmeijer/On-the-Generation-and-Evaluation-of-Synthetic-Tabular-Data-using-GANs)
+
+
 ## multiple formats
 * [SDV](https://github.com/sdv-dev/SDV)
 
 ## time Series
-* [mtss-gan](https://github.com/firmai/mtss-gan
+* [mtss-gan](https://github.com/firmai/mtss-gan)
 
 ## From model to dataset
 
@@ -35,6 +37,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [PoisBinOrdNonNor](https://cran.r-project.org/web/packages/PoisBinOrdNonNor/index.html)
 * [SimMultiCorrData](https://cran.r-project.org/web/packages/SimMultiCorrData/index.html)
 * [plaitpy](https://github.com/plaitpy/plaitpy)
+* [pySyntheticDatasetGenerator](https://github.com/EDS-APHP/pySyntheticDatasetGenerator)
 
 ## Pre-defined models 
 ## tabular
