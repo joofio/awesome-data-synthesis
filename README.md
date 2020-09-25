@@ -41,7 +41,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [fabricatr](https://cran.r-project.org/web/packages/fabricatr/index.html)
 
 ### Patients
-
+* [synthea](https://github.com/synthetichealth/synthea)
 
 
 ## Metrics and dataset evaluation 
