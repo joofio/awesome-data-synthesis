@@ -14,26 +14,33 @@ This repository contains a curated list of awesome resources for creating synthe
 
 ## From original dataset to synthetic dataset
 
+## tabular
 * [FakeR](https://cran.r-project.org/web/packages/fakeR/index.html)
 * [CTGAN](https://github.com/sdv-dev/CTGAN)
 
 
 ## From model to dataset
 
+## tabular
 * [bindata](https://cran.r-project.org/web/packages/bindata/index.html)
-* [charlatan](https://cran.r-project.org/web/packages/charlatan/index.html)
-* [fabricatr](https://cran.r-project.org/web/packages/fabricatr/index.html)
 * [GenOrd](https://cran.r-project.org/web/packages/GenOrd/index.html)
 * [MultiOrd](https://cran.r-project.org/web/packages/MultiOrd/index.html)
 * [PoisBinOrdNonNor](https://cran.r-project.org/web/packages/PoisBinOrdNonNor/index.html)
 * [SimMultiCorrData](https://cran.r-project.org/web/packages/SimMultiCorrData/index.html)
 
 ## Pre-defined models 
+## tabular
+### Students
+* [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR
 
-# Students
-* [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR)
+### People
+* [charlatan](https://cran.r-project.org/web/packages/charlatan/index.html)
+* [fabricatr](https://cran.r-project.org/web/packages/fabricatr/index.html)
+
+### Patients
 
 
 
 
 ## Metrics and dataset evaluation 
+* [datagene] (https://github.com/firmai/datagene)
