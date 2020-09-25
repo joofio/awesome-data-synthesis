@@ -1,10 +1,10 @@
 [![Awesome](images/awesome.svg)](https://github.com/sindresorhus/awesome)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/EthicalML/awesome-production-machine-learning/graphs/commit-activity)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/joofio/awesome-data-synthesis/graphs/commit-activity)
 ![GitHub](https://img.shields.io/badge/Release-PROD-yellow.svg)
-![GitHub](https://img.shields.io/badge/Languages-MULTI-blue.svg)
 ![GitHub](https://img.shields.io/badge/License-MIT-lightgrey.svg)
-[![GitHub](https://img.shields.io/twitter/follow/axsaucedo.svg?label=Follow)](https://twitter.com/AxSaucedo/)
+[![GitHub](https://img.shields.io/twitter/follow/4Elemento.svg?label=Follow)](https://twitter.com/4Elemento/)
 
+Inspired by [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
 # awesome-data-synthesis
 This repository contains a curated list of awesome resources for creating synthetic data
