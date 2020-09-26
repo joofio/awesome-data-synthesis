@@ -20,6 +20,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [TGAN](https://github.com/sdv-dev/TGAN) <img src="images/python.png" width="20" heigth=20>
 * [gretel](https://github.com/gretelai/gretel-synthetics) <img src="images/python.png" width="20" heigth=20>
 * [On the Generation and Evaluation of Synthetic Tabular Data using GANs](https://github.com/Baukebrenninkmeijer/On-the-Generation-and-Evaluation-of-Synthetic-Tabular-Data-using-GANs) <img src="images/python.png" width="20" heigth=20>
+* [Synthpop](https://cran.r-project.org/web/packages/synthpop/index.html)  <img src="images/R_logo.svg.png" width="20" heigth=18>
 
 
 ### Multiple formats
