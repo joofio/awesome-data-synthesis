@@ -21,7 +21,10 @@ This repository contains a curated list of awesome resources for creating synthe
 * [gretel](https://github.com/gretelai/gretel-synthetics) <img src="images/python.png" width="20" heigth=20>
 * [On the Generation and Evaluation of Synthetic Tabular Data using GANs](https://github.com/Baukebrenninkmeijer/On-the-Generation-and-Evaluation-of-Synthetic-Tabular-Data-using-GANs) <img src="images/python.png" width="20" heigth=20>
 * [Synthpop](https://cran.r-project.org/web/packages/synthpop/index.html)  <img src="images/R_logo.svg.png" width="20" heigth=18>
-
+* [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer)
+* [MedGAN](https://github.com/mp2893/medgan)
+* [tableGAN](https://github.com/mahmoodm2/tableGAN)
+* [VEEGAN](https://akashgit.github.io/VEEGAN/)
 
 ### Multiple formats
 * [SDV](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
