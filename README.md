@@ -28,6 +28,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [DP-WGAN](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge)
 * [DP-GAN](https://github.com/alps-lab/dpgan)
 * [DP-GAN 2](https://github.com/illidanlab/dpgan)
+* [PateGAN - Paper](https://openreview.net/forum?id=S1zk9iRqF7)
 
 ### Multiple formats
 * [SDV](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
