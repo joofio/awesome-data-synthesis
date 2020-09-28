@@ -25,6 +25,9 @@ This repository contains a curated list of awesome resources for creating synthe
 * [MedGAN](https://github.com/mp2893/medgan)
 * [tableGAN](https://github.com/mahmoodm2/tableGAN)
 * [VEEGAN](https://akashgit.github.io/VEEGAN/)
+* [DP-WGAN](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge)
+* [DP-GAN](https://github.com/alps-lab/dpgan)
+* [DP-GAN 2](https://github.com/illidanlab/dpgan)
 
 ### Multiple formats
 * [SDV](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
