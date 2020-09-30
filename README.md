@@ -44,6 +44,9 @@ This repository contains a curated list of awesome resources for creating synthe
 * [RGAN](https://github.com/ratschlab/RGAN)
 * [Machine-learning for trading Ch21](https://github.com/stefan-jansen/machine-learning-for-trading/tree/master/21_gans_for_synthetic_time_series)
 
+### Sensor data
+* [synsys](https://github.com/jb3dahmen/SynSys-Updated) - create sensor data 
+
 ## From model to dataset
 
 ### Tabular
@@ -77,3 +80,8 @@ This repository contains a curated list of awesome resources for creating synthe
 * [table-evaluator](https://github.com/Baukebrenninkmeijer/table-evaluator) <img src="images/python.png" width="20" heigth=20>
 * [Statistical-Similarity-Measurement](https://github.com/Olliang/Statistical-Similarity-Measurement) <img src="images/python.png" width="20" heigth=20>
 * [SDGym](https://github.com/sdv-dev/SDGym) <img src="images/python.png" width="20" heigth=20> - Synthetic Data Gym (SDGym) is a framework to benchmark the performance of synthetic data generators for tabular data. SDGym is a project of the Data to AI Laboratory at MIT.
+
+
+
+## other 
+https://github.com/jmschrei/pomegranate
