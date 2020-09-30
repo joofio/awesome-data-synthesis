@@ -60,6 +60,8 @@ This repository contains a curated list of awesome resources for creating synthe
 * [plaitpy](https://github.com/plaitpy/plaitpy) 
 * [pySyntheticDatasetGenerator](https://github.com/EDS-APHP/pySyntheticDatasetGenerator)
 * [SimPop](https://cran.r-project.org/web/packages/simPop/index.html) - Tools and methods to simulate populations for surveys based on auxiliary data. The tools include model-based methods, calibration and combinatorial optimization algorithms. 
+* [datasynthR](https://github.com/jknowles/datasynthR)
+
 
 ## Pre-defined models 
 ### Tabular
