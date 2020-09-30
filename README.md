@@ -70,4 +70,4 @@ This repository contains a curated list of awesome resources for creating synthe
 * [SDV evaluation functions](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
 * [table-evaluator](https://github.com/Baukebrenninkmeijer/table-evaluator) <img src="images/python.png" width="20" heigth=20>
 * [Statistical-Similarity-Measurement](https://github.com/Olliang/Statistical-Similarity-Measurement) <img src="images/python.png" width="20" heigth=20>
-* [SDGym](https://github.com/sdv-dev/SDGym)
+* [SDGym](https://github.com/sdv-dev/SDGym) <img src="images/python.png" width="20" heigth=20> - Synthetic Data Gym (SDGym) is a framework to benchmark the performance of synthetic data generators for tabular data. SDGym is a project of the Data to AI Laboratory at MIT.
