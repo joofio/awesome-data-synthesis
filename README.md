@@ -29,6 +29,8 @@ This repository contains a curated list of awesome resources for creating synthe
 * [DP-GAN](https://github.com/alps-lab/dpgan) - Differentially private release of semantic rich data
 * [DP-GAN 2](https://github.com/illidanlab/dpgan) - Source code of paper "Differentially Private Generative Adversarial Network" - [Paper](https://arxiv.org/abs/1802.06739)
 * [PateGAN]() -  Our method modifies the Private Aggregation of Teacher Ensembles (PATE) framework and applies it to GANs - [Paper](https://openreview.net/forum?id=S1zk9iRqF7)
+* [bnomics](https://bitbucket.org/77D/bnomics/src/master/) - Synthetic data generation with probabilistic Bayesian Networks - [Paper](https://www.biorxiv.org/content/10.1101/2020.06.14.151084v1.full.pdf)
+
 
 ### Multiple formats
 * [SDV](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
