@@ -43,7 +43,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [data-generator](https://github.com/KDD-OpenSource/data-generation)
 * [RGAN](https://github.com/ratschlab/RGAN)
 * [Machine-learning for trading Ch21](https://github.com/stefan-jansen/machine-learning-for-trading/tree/master/21_gans_for_synthetic_time_series)
-* [tsBNgen](https://github.com/manitadayon/tsBNgen)
+* [tsBNgen](https://github.com/manitadayon/tsBNgen) - - [Paper](https://arxiv.org/pdf/2009.04595.pdf)
 
 
 ### Sensor data
