@@ -16,19 +16,19 @@ This repository contains a curated list of awesome resources for creating synthe
 
 ### Tabular
 * [FakeR](https://cran.r-project.org/web/packages/fakeR/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18> - Generates fake data from a dataset of different variable types
-* [CTGAN](https://github.com/sdv-dev/CTGAN) <img src="images/python.png" width="20" heigth=20> - CTGAN is a GAN-based data synthesizer that can generate synthetic tabular data with high fidelity.
+* [CTGAN](https://github.com/sdv-dev/CTGAN) <img src="images/python.png" width="20" heigth=20> - CTGAN is a GAN-based data synthesizer that can generate synthetic tabular data with high fidelity. - [Paper](https://arxiv.org/pdf/1907.00503.pdf)
 * [TGAN](https://github.com/sdv-dev/TGAN) <img src="images/python.png" width="20" heigth=20> - Outdated and superseded by **CTGAN**
 * [gretel](https://github.com/gretelai/gretel-synthetics) <img src="images/python.png" width="20" heigth=20> - create fake, synthetic datasets with enhanced privacy guarantees
 * [On the Generation and Evaluation of Synthetic Tabular Data using GANs](https://github.com/Baukebrenninkmeijer/On-the-Generation-and-Evaluation-of-Synthetic-Tabular-Data-using-GANs) <img src="images/python.png" width="20" heigth=20> - we propose using the WGAN-GP architecture for training the GAN, which suffers less from mode-collapse and has a more meaningful loss. 
 * [Synthpop](https://cran.r-project.org/web/packages/synthpop/index.html)  <img src="images/R_logo.svg.png" width="20" heigth=18> - A tool for producing synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis.
-* [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer)
-* [MedGAN](https://github.com/mp2893/medgan)
-* [tableGAN](https://github.com/mahmoodm2/tableGAN)
-* [VEEGAN](https://akashgit.github.io/VEEGAN/)
-* [DP-WGAN](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge)
-* [DP-GAN](https://github.com/alps-lab/dpgan)
-* [DP-GAN 2](https://github.com/illidanlab/dpgan)
-* [PateGAN - Paper](https://openreview.net/forum?id=S1zk9iRqF7)
+* [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer) - DataSynthesizer generates synthetic data that simulates a given dataset. It applies Differential Privacy techniques to achieve strong privacy guarantee.
+* [MedGAN](https://github.com/mp2893/medgan) - medGAN is a generative adversarial network for generating multi-label discrete patient records. It can generate both binary and count variables (i.e. medical codes such as diagnosis codes, medication codes or procedure codes) - [Paper](https://arxiv.org/abs/1703.06490)
+* [tableGAN](https://github.com/mahmoodm2/tableGAN) - tableGAN is a synthetic data generation technique (Data Synthesis based on Generative Adversarial Networks paper) based on Generative Adversarial Network architecture (DCGAN). - [Paper](http://www.vldb.org/pvldb/vol11/p1071-park.pdf)
+* [VEEGAN](https://akashgit.github.io/VEEGAN/) - Reducing Mode Collapse in GANs using Implicit Variational Learning - [Paper](https://arxiv.org/abs/1705.07761)
+* [DP-WGAN](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge) - The solution trains a wasserstein generative adversarial network (w-GAN) that is trained on the real private dataset. Differentially private training is applied by santizing (norm clipping and adding Gaussian noise) the gradients of the discriminator. Once the model is trained, it can be used to generate sytnethic dataset by feeding random noise into the generator. 
+* [DP-GAN](https://github.com/alps-lab/dpgan) - Differentially private release of semantic rich data
+* [DP-GAN 2](https://github.com/illidanlab/dpgan) - Source code of paper "Differentially Private Generative Adversarial Network" - [Paper](https://arxiv.org/abs/1802.06739)
+* [PateGAN]() -  Our method modifies the Private Aggregation of Teacher Ensembles (PATE) framework and applies it to GANs - [Paper](https://openreview.net/forum?id=S1zk9iRqF7)
 
 ### Multiple formats
 * [SDV](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
