@@ -23,13 +23,16 @@ This repository contains a curated list of awesome resources for creating synthe
 * [Synthpop](https://cran.r-project.org/web/packages/synthpop/index.html)  <img src="images/R_logo.svg.png" width="20" heigth=18> - A tool for producing synthetic versions of microdata containing confidential information so that they are safe to be released to users for exploratory analysis.
 * [DataSynthesizer](https://github.com/DataResponsibly/DataSynthesizer) - DataSynthesizer generates synthetic data that simulates a given dataset. It applies Differential Privacy techniques to achieve strong privacy guarantee.
 * [MedGAN](https://github.com/mp2893/medgan) - medGAN is a generative adversarial network for generating multi-label discrete patient records. It can generate both binary and count variables (i.e. medical codes such as diagnosis codes, medication codes or procedure codes) - [Paper](https://arxiv.org/abs/1703.06490)
+* [MC-MedGAN]()
 * [tableGAN](https://github.com/mahmoodm2/tableGAN) - tableGAN is a synthetic data generation technique (Data Synthesis based on Generative Adversarial Networks paper) based on Generative Adversarial Network architecture (DCGAN). - [Paper](http://www.vldb.org/pvldb/vol11/p1071-park.pdf)
 * [VEEGAN](https://akashgit.github.io/VEEGAN/) - Reducing Mode Collapse in GANs using Implicit Variational Learning - [Paper](https://arxiv.org/abs/1705.07761)
 * [DP-WGAN](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge) - The solution trains a wasserstein generative adversarial network (w-GAN) that is trained on the real private dataset. Differentially private training is applied by santizing (norm clipping and adding Gaussian noise) the gradients of the discriminator. Once the model is trained, it can be used to generate sytnethic dataset by feeding random noise into the generator. 
 * [DP-GAN](https://github.com/alps-lab/dpgan) - Differentially private release of semantic rich data
 * [DP-GAN 2](https://github.com/illidanlab/dpgan) - Source code of paper "Differentially Private Generative Adversarial Network" - [Paper](https://arxiv.org/abs/1802.06739)
-* [PateGAN]() -  Our method modifies the Private Aggregation of Teacher Ensembles (PATE) framework and applies it to GANs - [Paper](https://openreview.net/forum?id=S1zk9iRqF7)
+* [PateGAN] -  Our method modifies the Private Aggregation of Teacher Ensembles (PATE) framework and applies it to GANs - [Paper](https://openreview.net/forum?id=S1zk9iRqF7)
 * [bnomics](https://bitbucket.org/77D/bnomics/src/master/) - Synthetic data generation with probabilistic Bayesian Networks - [Paper](https://www.biorxiv.org/content/10.1101/2020.06.14.151084v1.full.pdf)
+* [MPoM] - [Paper](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.tm08439)
+* [CLGP] - categorical latent Gaussian process is a generative model for multivariate categorical data - [Paper](http://proceedings.mlr.press/v37/gala15.html)
 
 
 ### Multiple formats
@@ -51,6 +54,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [SimMultiCorrData](https://cran.r-project.org/web/packages/SimMultiCorrData/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
 * [plaitpy](https://github.com/plaitpy/plaitpy) 
 * [pySyntheticDatasetGenerator](https://github.com/EDS-APHP/pySyntheticDatasetGenerator)
+* [SimPop](https://cran.r-project.org/web/packages/simPop/index.html) - Tools and methods to simulate populations for surveys based on auxiliary data. The tools include model-based methods, calibration and combinatorial optimization algorithms. 
 
 ## Pre-defined models 
 ### Tabular
