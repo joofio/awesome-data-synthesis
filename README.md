@@ -12,7 +12,7 @@ This repository contains a curated list of awesome resources for creating synthe
 
 # Main Content
 
-## From original dataset to synthetic dataset
+## Data-driven methods
 
 ### Tabular
 * [FakeR](https://cran.r-project.org/web/packages/fakeR/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18> - Generates fake data from a dataset of different variable types
@@ -49,7 +49,7 @@ This repository contains a curated list of awesome resources for creating synthe
 ### Sensor data
 * [synsys](https://github.com/jb3dahmen/SynSys-Updated) - create sensor data 
 
-## From model to dataset
+## Process-driven methods
 
 ### Tabular
 * [bindata](https://cran.r-project.org/web/packages/bindata/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
@@ -62,9 +62,6 @@ This repository contains a curated list of awesome resources for creating synthe
 * [SimPop](https://cran.r-project.org/web/packages/simPop/index.html) - Tools and methods to simulate populations for surveys based on auxiliary data. The tools include model-based methods, calibration and combinatorial optimization algorithms. 
 * [datasynthR](https://github.com/jknowles/datasynthR)
 
-
-## Pre-defined models 
-### Tabular
 #### Students
 * [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR) <img src="images/R_logo.svg.png" width="20" heigth=18>
 
