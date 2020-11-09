@@ -32,7 +32,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [PateGAN] -  Our method modifies the Private Aggregation of Teacher Ensembles (PATE) framework and applies it to GANs - [Paper](https://openreview.net/forum?id=S1zk9iRqF7)
 * [bnomics](https://bitbucket.org/77D/bnomics/src/master/) - Synthetic data generation with probabilistic Bayesian Networks - [Paper](https://www.biorxiv.org/content/10.1101/2020.06.14.151084v1.full.pdf)
 * [MPoM] - [Paper](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.tm08439)
-* [CLGP] - categorical latent Gaussian process is a generative model for multivariate categorical data - [Paper](http://proceedings.mlr.press/v37/gala15.html)
+* [CLGP](https://github.com/yaringal/CLGP) - categorical latent Gaussian process is a generative model for multivariate categorical data - [Paper](http://proceedings.mlr.press/v37/gala15.html)
 
 
 ### Multiple formats
