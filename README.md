@@ -85,6 +85,6 @@ This repository contains a curated list of awesome resources for creating synthe
 
 
 ## other 
-https://github.com/jmschrei/pomegranate
-https://github.com/Pushkar-v/Generating-Synthetic-Data-using-GANs
-https://github.com/ydataai/ydata-synthetic
+https://github.com/jmschrei/pomegranate  
+https://github.com/Pushkar-v/Generating-Synthetic-Data-using-GANs  
+https://github.com/ydataai/ydata-synthetic  
