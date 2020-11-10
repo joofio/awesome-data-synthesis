@@ -35,7 +35,9 @@ This repository contains a curated list of awesome resources for creating synthe
 * [CLGP](https://github.com/yaringal/CLGP) - categorical latent Gaussian process is a generative model for multivariate categorical data - [Paper](http://proceedings.mlr.press/v37/gala15.html)
 * [COR-GAN](https://github.com/astorfi/cor-gan) - Correlation-Capturing Convolutional Neural Networks for Generating Synthetic Healthcare Records - [Paper](https://arxiv.org/pdf/2001.09346v2.pdf)
 * [synergetr](https://github.com/avirkki/synergetr) - An R package to generate synthetic data with empirical probability distributions  - [Paper]()
-
+* [DPautoGAN](https://github.com/DPautoGAN/DPautoGAN) - Code for the paper Differentially Private Mixed-Type Data Generation for Unsupervised Learning - [Paper]()
+* [SynC](https://github.com/winstonll/SynC) - SynC: A Unified Framework for Generating Synthetic Population with Gaussian Copula - [Paper]()
+* [NIST-PSCR](https://github.com/ClaireMcKayBowen/Code-for-NIST-PSCR-Differential-Privacy-Synthetic-Data-Challenge) - Code and Data for NIST PSCR Differential Privacy Synthetic Data Challenge - [Paper]()
 
 ### Multiple formats
 * [SDV](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
@@ -89,4 +91,6 @@ This repository contains a curated list of awesome resources for creating synthe
 ## other 
 https://github.com/jmschrei/pomegranate  
 https://github.com/Pushkar-v/Generating-Synthetic-Data-using-GANs  
-https://github.com/ydataai/ydata-synthetic  
+https://github.com/ydataai/ydata-synthetic   
+https://github.com/DPBayes/data-sharing-examples     
+https://github.com/jclymo/DataGen_NPBE   
