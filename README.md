@@ -34,8 +34,8 @@ This repository contains a curated list of awesome resources for creating synthe
 * [MPoM] - [Paper](https://www.tandfonline.com/doi/abs/10.1198/jasa.2009.tm08439)
 * [CLGP](https://github.com/yaringal/CLGP) - categorical latent Gaussian process is a generative model for multivariate categorical data - [Paper](http://proceedings.mlr.press/v37/gala15.html)
 * [COR-GAN](https://github.com/astorfi/cor-gan) - Correlation-Capturing Convolutional Neural Networks for Generating Synthetic Healthcare Records - [Paper](https://arxiv.org/pdf/2001.09346v2.pdf)
+* [synergetr](https://github.com/avirkki/synergetr) - An R package to generate synthetic data with empirical probability distributions  - [Paper]()
 
-: 
 
 ### Multiple formats
 * [SDV](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
