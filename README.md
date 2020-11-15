@@ -38,6 +38,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [DPautoGAN](https://github.com/DPautoGAN/DPautoGAN) - Code for the paper Differentially Private Mixed-Type Data Generation for Unsupervised Learning - [Paper]()
 * [SynC](https://github.com/winstonll/SynC) - SynC: A Unified Framework for Generating Synthetic Population with Gaussian Copula - [Paper]()
 * [NIST-PSCR](https://github.com/ClaireMcKayBowen/Code-for-NIST-PSCR-Differential-Privacy-Synthetic-Data-Challenge) - Code and Data for NIST PSCR Differential Privacy Synthetic Data Challenge - [Paper]()
+* [Bn-learn Latent Model](https://github.com/zhenchenwang/latent_model) - Generating High-Fidelity Synthetic Patient Data for Assessing Machine Learning Healthcare Software - [Paper](https://www.nature.com/articles/s41746-020-00353-9)
 
 ### Multiple formats
 * [SDV](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
