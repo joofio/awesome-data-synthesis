@@ -51,7 +51,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [Synthesizing quality open data](https://github.com/TheRensselaerIDEA/synthetic_data) - Synthesizing Quality Open Data Assets from Private Health Research Studies
 * [bayesian-synthetic-generator](https://github.com/ITMO-NSS-team/bayesian-synthetic-generator) - Repository of a software system for generating synthetic personal data based on the Bayesian network block structure
 * [Generating-Synthetic-data-using-GANs](https://github.com/vibhavps/Generating-Synthetic-data-using-GANs) - How can we safely and efficiently share encrypted data that is also useful. We use the mechanism of GANs used to generate fake images to generate synthetic tabular data
-
+* [](https://github.com/albert-kevin/SyntheticHealthData2020) 
 
 
 
