@@ -41,6 +41,18 @@ This repository contains a curated list of awesome resources for creating synthe
 * [Bn-learn Latent Model](https://github.com/zhenchenwang/latent_model) - Generating High-Fidelity Synthetic Patient Data for Assessing Machine Learning Healthcare Software - [Paper](https://www.nature.com/articles/s41746-020-00353-9)
 * [SAP Security research sample](https://github.com/SAP-samples/security-research-differentially-private-generative-models/blob/master/Tutorial_dp-VAE.ipynb) - SAP Security research sample code and tutorials for generating differentially private synthetic datasets using generative deep learning models
 * [Python synthpop](https://github.com/hazy/synthpop) - Python implementation of the R package synthpop.
+* [UCLANesl ](https://github.com/nesl/nist_differential_privacy_synthetic_data_challenge) - UCLANesl - NIST Differential Privacy Challenge (Match 3)
+* [Repo on generating synthetic data using GAN](https://github.com/datasciencecampus/synthetic-data) - Repo on generating synthetic data using GAN
+* [synthia](https://github.com/dmey/synthia) - 📈 🐍 Multidimensional synthetic data generation in Python
+* [Synthetic_Data_System](https://github.com/SDS-Architect/Synthetic_Data_System) - The Alpha Build of the SDS for ideas gathering, testing and commentary
+* [QUIPP](https://github.com/alan-turing-institute/QUIPP-pipeline) - Privacy preserving synthetic data generation workflows
+* [MSFT synthetic data showcase](https://github.com/microsoft/synthetic-data-showcase) - Generates synthetic data and user interfaces for privacy-preserving data sharing and analysis.
+* [extended-MedGan](https://github.com/marcolussetti/extended-medgan) - Synthetic patient data using generative adversarial networks.
+* [Synthesizing quality open data](https://github.com/TheRensselaerIDEA/synthetic_data) - Synthesizing Quality Open Data Assets from Private Health Research Studies
+* [bayesian-synthetic-generator](https://github.com/ITMO-NSS-team/bayesian-synthetic-generator) - Repository of a software system for generating synthetic personal data based on the Bayesian network block structure
+* [Generating-Synthetic-data-using-GANs](https://github.com/vibhavps/Generating-Synthetic-data-using-GANs) - How can we safely and efficiently share encrypted data that is also useful. We use the mechanism of GANs used to generate fake images to generate synthetic tabular data
+
+
 
 
 
@@ -53,6 +65,8 @@ This repository contains a curated list of awesome resources for creating synthe
 * [RGAN](https://github.com/ratschlab/RGAN)
 * [Machine-learning for trading Ch21](https://github.com/stefan-jansen/machine-learning-for-trading/tree/master/21_gans_for_synthetic_time_series)
 * [tsBNgen](https://github.com/manitadayon/tsBNgen) - - [Paper](https://arxiv.org/pdf/2009.04595.pdf)
+* [Sythetic Data Generation](https://github.com/stefan-jansen/synthetic-data-for-finance) - Material for QuantUniversity talk on Sythetic Data Generation for Finance.
+* [LSTM GAN model](https://github.com/StoicGilgamesh/LSTM-GAN-) - The LSTM GAN model can be used for generation of synthetic multi-dimension time series data.
 
 
 ### Sensor data
@@ -70,6 +84,10 @@ This repository contains a curated list of awesome resources for creating synthe
 * [pySyntheticDatasetGenerator](https://github.com/EDS-APHP/pySyntheticDatasetGenerator)
 * [SimPop](https://cran.r-project.org/web/packages/simPop/index.html) - Tools and methods to simulate populations for surveys based on auxiliary data. The tools include model-based methods, calibration and combinatorial optimization algorithms. 
 * [datasynthR](https://github.com/jknowles/datasynthR)
+* [synner](https://github.com/huda-lab/synner) -Generating Realistic Synthetic Data
+* [pySyntheticDatasetGenerator](https://github.com/EDS-APHP/pySyntheticDatasetGenerator) - Generate relational fictive dataset from a simple yaml description
+
+
 
 #### Students
 * [OpenSDPsynthR](https://github.com/opensdp/OpenSDPsynthR) <img src="images/R_logo.svg.png" width="20" heigth=18>
@@ -77,7 +95,10 @@ This repository contains a curated list of awesome resources for creating synthe
 #### Population
 * [charlatan](https://cran.r-project.org/web/packages/charlatan/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
 * [fabricatr](https://cran.r-project.org/web/packages/fabricatr/index.html) <img src="images/R_logo.svg.png" width="20" heigth=18>
-* [genstar](https://github.com/ANRGenstar/genstar)
+* [genstar](https://github.com/ANRGenstar/genstar)  
+* [synthetico](https://github.com/marcovisibelli/synthetico)  
+* [conjurer](https://github.com/SidharthMacherla/conjurer) - R Package to generate synthetic data.
+
 
 #### Patients & Medical Data
 * [synthea](https://github.com/synthetichealth/synthea)
@@ -91,6 +112,8 @@ This repository contains a curated list of awesome resources for creating synthe
 * [Statistical-Similarity-Measurement](https://github.com/Olliang/Statistical-Similarity-Measurement) <img src="images/python.png" width="20" heigth=20>
 * [SDGym](https://github.com/sdv-dev/SDGym) <img src="images/python.png" width="20" heigth=20> - Synthetic Data Gym (SDGym) is a framework to benchmark the performance of synthetic data generators for tabular data. SDGym is a project of the Data to AI Laboratory at MIT.
 * [Statistical-Similarity-Measurement](https://github.com/Olliang/Statistical-Similarity-Measurement) - A methodology designed to validate the statistical similarity of synthetic data generated by GAN models. The metrics contain Auto-encoder, PCA, t-SNE, KL-divergence, Clustering, and Cosine Similarity.
+* [virtualdatalab](https://github.com/mostly-ai/virtualdatalab) - Benchmarking synthetic data generators for sequential data in terms of accuracy and **privacy.**
+
 
 
 ## other 
@@ -99,4 +122,14 @@ https://github.com/Pushkar-v/Generating-Synthetic-Data-using-GANs
 https://github.com/ydataai/ydata-synthetic   
 https://github.com/DPBayes/data-sharing-examples     
 https://github.com/jclymo/DataGen_NPBE   
-https://github.com/theodi/synthetic-data-tutorial
+https://github.com/theodi/synthetic-data-tutorial  
+https://github.com/tirthajyoti/Synthetic-data-gen  
+https://github.com/jhajagos/SynthMedTopia  
+https://github.com/spiros/tofu  
+https://github.com/ewvanwinkle/SyntheticDataVault  
+https://github.com/chasebos91/GAN-for-Synthetic-EEG-Data  
+https://github.com/jgalilee/data  
+https://github.com/blt2114/overpruning_in_variational_bnns  
+https://github.com/avensolutions/synthetic-cdc-data-generator  
+https://github.com/nikk-nikaznan/SSVEP-Neural-Generative-Models  
+https://github.com/MertNacar/create-synthetic-data
