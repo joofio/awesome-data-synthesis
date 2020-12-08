@@ -99,3 +99,4 @@ https://github.com/Pushkar-v/Generating-Synthetic-Data-using-GANs
 https://github.com/ydataai/ydata-synthetic   
 https://github.com/DPBayes/data-sharing-examples     
 https://github.com/jclymo/DataGen_NPBE   
+https://github.com/theodi/synthetic-data-tutorial
