@@ -53,7 +53,9 @@ This repository contains a curated list of awesome resources for creating synthe
 * [Generating-Synthetic-data-using-GANs](https://github.com/vibhavps/Generating-Synthetic-data-using-GANs) - How can we safely and efficiently share encrypted data that is also useful. We use the mechanism of GANs used to generate fake images to generate synthetic tabular data
 * [synthetic health data](https://github.com/albert-kevin/SyntheticHealthData2020) 
 * [Synthetic data Copula](https://github.com/superyang713/Synthetic_Data_Generation)
-
+* [PrivBayes](https://sourceforge.net/projects/privbayes/) - 
+* [pategan](https://bitbucket.org/mvdschaar/mlforhealthlabpub/src/master/alg/pategan/)
+* [HoloClean](https://github.com/HoloClean/holoclean/) - A Machine Learning System for Data Enrichment.
 
 
 ### Multiple formats
