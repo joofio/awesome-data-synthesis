@@ -6,7 +6,7 @@
 
 Inspired by [awesome-production-machine-learning](https://github.com/EthicalML/awesome-production-machine-learning)
 
-# awesome-data-synthesis
+# Awesome Data Synthesis
 This repository contains a curated list of awesome resources for creating synthetic data
 
 
