@@ -56,7 +56,7 @@ This repository contains a curated list of awesome resources for creating synthe
 * [PrivBayes](https://sourceforge.net/projects/privbayes/) - 
 * [pategan](https://bitbucket.org/mvdschaar/mlforhealthlabpub/src/master/alg/pategan/)
 * [HoloClean](https://github.com/HoloClean/holoclean/) - A Machine Learning System for Data Enrichment.
-
+* [SYNDATA](https://github.com/LLNL/SYNDATA) - Generation and evaluation of synthetic patient data - [Paper](https://bmcmedresmethodol.biomedcentral.com/track/pdf/10.1186/s12874-020-00977-1.pdf)
 
 ### Multiple formats
 * [SDV](https://github.com/sdv-dev/SDV) <img src="images/python.png" width="20" heigth=20>
